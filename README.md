@@ -6,7 +6,7 @@
 
 
 - 🔭 Atualmente terminar minha graduação em Análise e Desenvolvimento de Sistemas / Unicid / SP
-- 🌱 Atualmente fazendo cursos Fazer cursos online sobre HTML5 | CSS | JavaScript | React  
+- 🌱 Atualmente fazendo cursi online sobre HTML5 | CSS | JavaScript | React  
 - 📫 petersonsalesdev@gmail.com: 
 
 ## 🧠 Minha Stack
